@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522712996919",
+    "firebase_url": "https://test-todo-for-apey-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "test-todo-for-apey",
+    "storage_bucket": "test-todo-for-apey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522712996919:android:3c1e1e25bfcf6148ddf3b2",
+        "android_client_info": {
+          "package_name": "me.devdanetra.todo_test_for_apey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522712996919-lb7bs9t2r90cqmmm02qfqhptd895o052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_muv7U6S7FK6N34DPnLDZDo5TPUhmYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522712996919-lb7bs9t2r90cqmmm02qfqhptd895o052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
